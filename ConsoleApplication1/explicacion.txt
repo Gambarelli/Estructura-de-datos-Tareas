@@ -1,0 +1,1 @@
+Cree un ejemplo de arreglo con struct, y una funcion que lo imprimiera y sus atributos o componentes.
